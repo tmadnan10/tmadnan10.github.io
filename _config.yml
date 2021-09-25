@@ -85,9 +85,9 @@ author:
   bio              : "Assistant Professor"
   location_1       : "Room No: 420, ECE Building"
   location_2       : "Department of CSE, BUET"
-  #employer_1       : "Bangladesh University of Egineering"
-  #employer_2       : "and Technology (BUET)"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer_1       : 
+  employer_2       : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vJ4Yn0EAAAAJ&hl=en"
   email            : "tariqadnan@cse.buet.ac.bd"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
