@@ -10,23 +10,18 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* B.Sc. in CSE, Bangaldesh University of Engineering and TEchnology (BUET), September 2017
+* M.Sc. in CSE, Bangaldesh University of Engineering and TEchnology (BUET), February 2021
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* May 2021 - Present: Assistant Professor: Department of CSE, BUET 
+* July 2018 - May 2021: Lecturer: Department of CSE, BUET
+* October 2017 - May 2018: Research Assistant
+  * Department of CSE, BUEt
+  * Supervisor: Dr. Muhammad Abdullah Adnan, Ph.D. on Cloud Computing frm UCSD.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
