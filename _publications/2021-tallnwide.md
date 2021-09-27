@@ -2,7 +2,7 @@
 title: "Fast, scalable and geo- distributed PCA for big data analytics"
 collection: publications
 permalink: /publication/2021-tallnwide
-date: 2021
+date: 2021-01-01
 venue: 'Elsevier Journal on Information Systems, Elsevier'
 volume: '98',
 article: '101710',
