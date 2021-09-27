@@ -28,6 +28,12 @@ In our study, we take advantage of the zero-noise-limit Probabilistic PCA model,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deaprtment of CSE<br/>
                    :  Bangladesh Universiry of Engineering and Technology (BUET)<br/>
 
+|            |               |
+| ---------- | ------------- | 
+| Supervisor | [Dr. Muhammad Abdullah Adnan](https://scholar.google.com/citations?user=T5QF918AAAAJ&hl=en)    | 
+|            | Deaprtment of CSE    | 
+|            | Bangladesh Universiry of Engineering and Technology (BUET)          | 
+
 Co Authors: Md. Mehrab Tanjim
 Status: Published in Information Systems
 
