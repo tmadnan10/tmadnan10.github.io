@@ -31,7 +31,7 @@ title: "Teaching"
 - Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/1KIt3kX0B_YGRSQQpLRaXioGJ05gwKINm?usp=sharing)
 
 ## Military Institute of Science and Technology (as Adjunct Faculty)
-# Fall 2018 Semester: CSE 109 - Computer Programming
+### Fall 2018 Semester: CSE 109 - Computer Programming
 - Class Time: Wednesday at 11AM - 12PM and Thursday at 11AM - 1PM
 - Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/0B-NLmIc4lz_TLXBIeGFDRGZHRk0?resourcekey=0-wTMmIerQA-Xgxdyr_d6lFQ&usp=sharing)
 
