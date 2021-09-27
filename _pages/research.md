@@ -13,7 +13,7 @@ In our study, we take advantage of the zero-noise-limit Probabilistic PCA model,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bangladesh Universiry of Engineering and Technology (BUET)<br/>
 - __Co Authors__: 
-    1. [Md. Mehrab Tanjim](https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en), PhD Student, Department of CSE, University of California, San Diego<br/>
+    1. [Md. Mehrab Tanjim](https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en), PhD Student, CSE, University of California, San Diego<br/>
 - __Status__: Published in [Information System](https://www.sciencedirect.com/journal/information-systems) [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?via%3Dihub)]
 
 
@@ -25,8 +25,8 @@ We provide a distributed implementation of our proposed algorithm on the Amazon 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bangladesh Universiry of Engineering and Technology (BUET)<br/>
 - __Co Authors__: 
-    1. [Md. Saiful Islam](https://saiful1105020.github.io), PhD Student, Department of CSE, University of Rochester
-    2.  [Md. Tarikul Islam Papon](https://cs-people.bu.edu/papon/), PhD Researcher, Computer Science Department, Boston University
+    1. [Md. Saiful Islam](https://saiful1105020.github.io), PhD Student, CSE, University of Rochester
+    2.  [Md. Tarikul Islam Papon](https://cs-people.bu.edu/papon/), PhD Researcher, CS, Boston University
 - __Status__: Under review at [SNAM](https://www.springer.com/journal/13278)
 
 
@@ -37,6 +37,9 @@ In our study, we apply unsupervised learning in order to clusterize the mobile a
 - __Supervisor__: [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bangladesh Universiry of Engineering and Technology (BUET)<br/>
+- __Co Authors__: 
+    1. [Md. Mehrab Tanjim](https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en), PhD Student, CSE, University of California, San Diego
+    2. [Md. Touhidul Islam](https://www.linkedin.com/in/md-touhidul-islam-b9aa2688/?originalSubdomain=bd), Graduate RA, CSE, Penn State University
 - __Status__: Preprint
 
 Hierarchical Attention for Host Intrusion Detection
@@ -46,6 +49,8 @@ In our work, we propose a novel hierarchical attention based deep learning metho
 - __Supervisor__: [Dr. Md. Shohrab Hossain](https://scholar.google.com/citations?user=y89HApwAAAAJ&hl=en)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bangladesh Universiry of Engineering and Technology (BUET)<br/>
+- __Co Authors__: 
+    1. [Md. Shehab Sarar Ahmed](https://cse.buet.ac.bd/faculty/facdetail.php?id=shehab), Lecturer, CSE, Bangladesh Universiry of Engineering and Technology (BUET)
 - __Status__: Preprint
 
 Protein Function Prediction using Multi-Layer CNN
@@ -54,4 +59,7 @@ Developing efficient computational approaches for automatic protein function pre
 - __Supervisor__: [Dr. Md. Shamsuzzoha Bayzid](https://scholar.google.com/citations?user=h2vHz3wAAAAJ&hl=en)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bangladesh Universiry of Engineering and Technology (BUET)<br/>
+- __Co Authors__: 
+    1. [Nafis Sadeq](https://www.linkedin.com/in/nafis-sadeq/?originalSubdomain=bd), PhD Student, CSE, University of California, San Diego
+    2. [Shafayat Ahmed Piyal](https://www.linkedin.com/in/shafayat-piyal-13b406103/?originalSubdomain=bd), Graduate TA, CSE, Virginia Tech
 - __Status__: Preprint
