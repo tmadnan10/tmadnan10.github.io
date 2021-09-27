@@ -11,13 +11,12 @@ Fast, Scalable and Geo-Distributed PCA forBig Data Analytics
 --------
 In our study, we take advantage of the zero-noise-limit Probabilistic PCA model, and introduce a block-division method for it in order to suppress the explosion of intermediate data efficiently. Additionally, in the geo-distributed environment, we propose a communication efficient solution. We refer to our algorithm as TallnWide, and our empirical evaluation with real datasets shows that TallnWide can successfully handle significantly higher dimensional data ($\mathbf{10\times}$) than existing methods, and offer up to {$\mathbf{2.9\times}$} improvement in running time in the geo-distributed environment compared to the conventional approaches.
 <br>
-<pre>
-<b>Supervisor</b>: Dr. Muhammad Abdullah Adnan(https://scholar.google.com/citations?user=T5QF918AAAAJ&hl=en)<br>
-            Deaprtment of CSE<br>
-            Bangladesh Universiry of Engineering and Technology (BUET)
+<b>Supervisor</b>: [Dr. Muhammad Abdullah Adnan](https://scholar.google.com/citations?user=T5QF918AAAAJ&hl=en)
+$~~~~~~~~~~~$Deaprtment of CSE
+$~~~~~~~~~~~$Bangladesh Universiry of Engineering and Technology (BUET)
 
 Status: Published in Information Systems
-</pre>
+
 
 
 UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment
