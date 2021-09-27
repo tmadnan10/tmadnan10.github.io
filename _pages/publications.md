@@ -22,6 +22,3 @@ UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter
 ------
 TM Tariq Adnan, Md. Saiful Islam, Md. Tarikul Islam Papon, Sourav Kumar Nath, Muhammad Abdullah Adnan. “UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment". Article is under review at Social Network Analysis and Mining (SNAM).
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
