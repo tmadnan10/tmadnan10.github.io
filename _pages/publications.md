@@ -16,7 +16,7 @@ author_profile: true
 
 Fast, scalable and geo- distributed PCA for big data analytics
 ------
-TM Tariq Adnan, Md Mehrab Tanjim, and Muhammad Abdullah Adnan. ``Fast, scalable and geo- distributed PCA for big data analytics''. Elsevier Journal on Information Systems, Elsevier, Vol 98, Article 101710, 2021.
+TM Tariq Adnan, Md Mehrab Tanjim, and Muhammad Abdullah Adnan. ``Fast, scalable and geo- distributed PCA for big data analytics''. Elsevier Journal on Information Systems, Elsevier, Vol 98, Article 101710, 2021. 
 <a href=" post.link "><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href=" post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <a href=" post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
