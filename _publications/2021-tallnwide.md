@@ -4,8 +4,6 @@ collection: publications
 permalink: /publication/2021-tallnwide
 date: 2021-01-01
 venue: 'Elsevier Journal on Information Systems, Elsevier'
-volume: '98',
-article: '101710',
 paperurl: '/files/pdf/research/tallnwide.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?via%3Dihub'
 code: 'https://github.com/tmadnan10/TallnWide'
