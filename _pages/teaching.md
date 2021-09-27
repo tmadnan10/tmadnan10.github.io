@@ -27,13 +27,14 @@ title: "Teaching"
 - Class Time: Saturday at 12PM - 1PM, Monday and Tuesday at 8AM - 9AM
 - Course Materials: [Dropbox Link](https://www.dropbox.com/sh/1bv9vc97ksemypb/AAAe3QKJC3sR76Kq2p7xl__wa?dl=0)
 
+### [July 2018 Semester: CSE 483 - Computer Interfacing](https://cse.buet.ac.bd/undergrad/coursedetail.php?courseid=CSE483)
+- Class Time: Saturday and Wednesday at 12PM - 1PM, Monday at 10AM - 11AM
+- Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/1KIt3kX0B_YGRSQQpLRaXioGJ05gwKINm?usp=sharing)
+
 ### [January 2018 Semester: CSE 315 - Microprocessors and Microcontrollers](https://cse.buet.ac.bd/undergrad/coursedetail.php?courseid=CSE315)
 - Class Time: Saturday, Sunday, and Monday at 10AM - 11AM
 - Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/193MJWC0mbwY_0Lu4HvujitvijRsJNjoi?usp=sharing)
 
-### [July 2018 Semester: CSE 483 - Computer Interfacing](https://cse.buet.ac.bd/undergrad/coursedetail.php?courseid=CSE483)
-- Class Time: Saturday and Wednesday at 12PM - 1PM, Monday at 10AM - 11AM
-- Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/1KIt3kX0B_YGRSQQpLRaXioGJ05gwKINm?usp=sharing)
 
 ## Military Institute of Science and Technology (as Adjunct Faculty)
 ### Fall 2018 Semester: CSE 109 - Computer Programming
