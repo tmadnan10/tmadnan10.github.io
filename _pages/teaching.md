@@ -9,6 +9,11 @@ title: "Teaching"
 - Class Time: Saturday, Monday and Tuesday at 10AM - 11AM
 - Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/1ZDeWPbEdZUBl3LUqzsxMs8GQqqnHtgAW?usp=sharing)
 
+### January 2020 Semester: CSE 215 - Database
+- Class Time: Saturday, Monday and Wednesday at 9AM - 10AM
+- Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/1EEYgstCWxU_UkWaltXEsAXuyj2ujFgUr?usp=sharing)
+
+
 ### January 2021 Semester: CSE 391 - Embedded Systems and Interfacing
 - Class Time: Saturday, Monday and Wednesday at 8AM - 9AM
 - Course Materials: [Google Drive Link](https://drive.google.com/drive/folders/11qLla2XzAl9BKUC0hMGgLdwgfWl7hd1P?usp=sharing)
