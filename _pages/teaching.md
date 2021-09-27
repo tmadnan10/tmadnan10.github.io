@@ -7,7 +7,7 @@ title: "Teaching"
 ## Bangladesh University of Engineering and Technology (BUET)
 # [Upcoming July 2021 Semester: CSE 313 - Operating Systems](https://cse.buet.ac.bd/undergrad/coursedetail.php?courseid=CSE313)
 - Class Time: Saturday, Monday and Tuesday at 10AM - 11AM
-- Course Materials: 
+- Course Materials: https://drive.google.com/drive/folders/1ZDeWPbEdZUBl3LUqzsxMs8GQqqnHtgAW?usp=sharing
 
 # January 2021 Semester: CSE 391 - Embedded Systems and Interfacing
 - Class Time: Saturday, Monday and Wednesday at 8AM - 9AM
