@@ -16,9 +16,10 @@ author_profile: true
 
 Fast, scalable and geo- distributed PCA for big data analytics
 ------
-TM Tariq Adnan, Md Mehrab Tanjim, and Muhammad Abdullah Adnan. “Fast, scalable and geo- distributed PCA for big data analytics". Information Systems, 98 (2021): 101710. [Paper] [Code]
+TM Tariq Adnan, Md Mehrab Tanjim, and Muhammad Abdullah Adnan. “Fast, scalable and geo- distributed PCA for big data analytics”. Elsevier Journal on Information Systems, Elsevier, Vol 98, Article 101710, 2021.
+
 
 UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment
 ------
-TM Tariq Adnan, Md. Saiful Islam, Md. Tarikul Islam Papon, Sourav Kumar Nath, Muhammad Abdullah Adnan. “UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment". Article is under review at Social Network Analysis and Mining (SNAM).
+TM Tariq Adnan, Md. Saiful Islam, Md. Tarikul Islam Papon, Sourav Kumar Nath, Muhammad Abdullah Adnan. “UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment”. Submitted for review at Social Network Analysis and Mining (SNAM) in April, 2021.
 
