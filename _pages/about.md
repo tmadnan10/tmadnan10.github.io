@@ -14,7 +14,7 @@ Earlier I completed my M.Sc. and B.Sc. in Computer Science and Engineering (CSE)
 
 Research Experience
 ------
-Currently, I am working in the ROC-HCI lab led by Prof. Ehsan Hoque, Associate Professor, CSE, UR. I have joined the <b>PARK<b> project, where I am trying to detect Parkinson's from videos containing facial expressions. 
+Currently, I am working in the ROC-HCI lab led by <b>Prof. Ehsan Hoque</b>, Associate Professor, CSE, UR. I have joined the <b>PARK</b> project, where I am trying to detect Parkinson's from videos containing facial expressions. 
  
 During my M.Sc. Thesis and most of my academic career, I have worked on <b>big data analytics</b>, <b>cloud computing</b>, and <b>distributed systems</b>. In my M.Sc. Thesis, I worked on deriving a scalable and federated technique of PCA, which is applicable to any arbitrarily large dimensional datasets. I would like to highlight that, an article titled <b>Fast, scalable, and geo-distributed PCA for big data analytics</b>, based on my M.Sc. Thesis was published in the Elsevier Journal <b>Information Systems</b> in the 98th volume of May 2021. 
 
